@@ -19,6 +19,7 @@ API_URLS = [
     "https://www.junaidniz.pw//api/tempotp?type=sms",
     "https://api-kami-nodejs-production-a53d.up.railway.app/api/sms",
     "https://junaidniz-three.vercel.app/api/pjunaid?type=message",
+    "https://junaidniz-three.vercel.app/api/djunaid?type=sms",
     
 ]
 
